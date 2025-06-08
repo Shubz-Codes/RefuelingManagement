@@ -1,0 +1,252 @@
+[
+    {
+        "vehicleType": "Truck",
+        "vehicleNumber": "UP80OK1782",
+        "tankCapacity": 428
+    },
+    {
+        "vehicleType": "Excavator",
+        "vehicleNumber": "DL83DH0482",
+        "tankCapacity": 476
+    },
+    {
+        "vehicleType": "Excavator",
+        "vehicleNumber": "TN06RO6443",
+        "tankCapacity": 453
+    },
+    {
+        "vehicleType": "Truck",
+        "vehicleNumber": "KA51RR2847",
+        "tankCapacity": 456
+    },
+    {
+        "vehicleType": "Excavator",
+        "vehicleNumber": "PB70IP2996",
+        "tankCapacity": 441
+    },
+    {
+        "vehicleType": "Excavator",
+        "vehicleNumber": "MH73HN2974",
+        "tankCapacity": 266
+    },
+    {
+        "vehicleType": "Excavator",
+        "vehicleNumber": "PB70IP2996",
+        "tankCapacity": 173
+    },
+    {
+        "vehicleType": "Forklift",
+        "vehicleNumber": "UP89UV7191",
+        "tankCapacity": 453
+    },
+    {
+        "vehicleType": "Forklift",
+        "vehicleNumber": "DL83DH0482",
+        "tankCapacity": 192
+    },
+    {
+        "vehicleType": "Tanker",
+        "vehicleNumber": "DL35GT5960",
+        "tankCapacity": 51
+    },
+    {
+        "vehicleType": "Tanker",
+        "vehicleNumber": "MHOIDT1917",
+        "tankCapacity": 270
+    },
+    {
+        "vehicleType": "Forklift",
+        "vehicleNumber": "DL35GT5960",
+        "tankCapacity": 446
+    },
+    {
+        "vehicleType": "Truck",
+        "vehicleNumber": "HR38AG0457",
+        "tankCapacity": 338
+    },
+    {
+        "vehicleType": "Forklift",
+        "vehicleNumber": "TN30HL5684",
+        "tankCapacity": 484
+    },
+    {
+        "vehicleType": "Excavator",
+        "vehicleNumber": "UP80OK1782",
+        "tankCapacity": 103
+    },
+    {
+        "vehicleType": "Excavator",
+        "vehicleNumber": "RJ04BQ5668",
+        "tankCapacity": 495
+    },
+    {
+        "vehicleType": "Tanker",
+        "vehicleNumber": "UP32DO4359",
+        "tankCapacity": 368
+    },
+    {
+        "vehicleType": "Truck",
+        "vehicleNumber": "MH62UX0138",
+        "tankCapacity": 315
+    },
+    {
+        "vehicleType": "Forklift",
+        "vehicleNumber": "GJ37AI0716",
+        "tankCapacity": 286
+    },
+    {
+        "vehicleType": "Excavator",
+        "vehicleNumber": "GJ37AI0716",
+        "tankCapacity": 496
+    },
+    {
+        "vehicleType": "Truck",
+        "vehicleNumber": "MHOIDT1917",
+        "tankCapacity": 327
+    },
+    {
+        "vehicleType": "Forklift",
+        "vehicleNumber": "DL58OI8670",
+        "tankCapacity": 439
+    },
+    {
+        "vehicleType": "Excavator",
+        "vehicleNumber": "WB43WP4750",
+        "tankCapacity": 55
+    },
+    {
+        "vehicleType": "Forklift",
+        "vehicleNumber": "PB61EE1823",
+        "tankCapacity": 323
+    },
+    {
+        "vehicleType": "Excavator",
+        "vehicleNumber": "GJ37AI0716",
+        "tankCapacity": 483
+    },
+    {
+        "vehicleType": "Forklift",
+        "vehicleNumber": "UP53HR1078",
+        "tankCapacity": 295
+    },
+    {
+        "vehicleType": "Excavator",
+        "vehicleNumber": "DL58OI8670",
+        "tankCapacity": 103
+    },
+    {
+        "vehicleType": "Truck",
+        "vehicleNumber": "MH53YW2270",
+        "tankCapacity": 369
+    },
+    {
+        "vehicleType": "Forklift",
+        "vehicleNumber": "DL58OI8670",
+        "tankCapacity": 492
+    },
+    {
+        "vehicleType": "Tanker",
+        "vehicleNumber": "RJ04BQ5668",
+        "tankCapacity": 237
+    },
+    {
+        "vehicleType": "Excavator",
+        "vehicleNumber": "HR28OJ9469",
+        "tankCapacity": 134
+    },
+    {
+        "vehicleType": "Tanker",
+        "vehicleNumber": "TN06RO6443",
+        "tankCapacity": 67
+    },
+    {
+        "vehicleType": "Truck",
+        "vehicleNumber": "MH53YW2270",
+        "tankCapacity": 291
+    },
+    {
+        "vehicleType": "Forklift",
+        "vehicleNumber": "MH73HN2974",
+        "tankCapacity": 181
+    },
+    {
+        "vehicleType": "Truck",
+        "vehicleNumber": "GJ38PL7962",
+        "tankCapacity": 279
+    },
+    {
+        "vehicleType": "Forklift",
+        "vehicleNumber": "HR28OJ9469",
+        "tankCapacity": 365
+    },
+    {
+        "vehicleType": "Tanker",
+        "vehicleNumber": "MH05NN8169",
+        "tankCapacity": 246
+    },
+    {
+        "vehicleType": "Truck",
+        "vehicleNumber": "DL83DH0482",
+        "tankCapacity": 454
+    },
+    {
+        "vehicleType": "Forklift",
+        "vehicleNumber": "RJ04BQ5668",
+        "tankCapacity": 214
+    },
+    {
+        "vehicleType": "Truck",
+        "vehicleNumber": "GJ37AI0716",
+        "tankCapacity": 334
+    },
+    {
+        "vehicleType": "Excavator",
+        "vehicleNumber": "MHOIDT1917",
+        "tankCapacity": 223
+    },
+    {
+        "vehicleType": "Truck",
+        "vehicleNumber": "WB35GR9528",
+        "tankCapacity": 326
+    },
+    {
+        "vehicleType": "Tanker",
+        "vehicleNumber": "PB70IP2996",
+        "tankCapacity": 385
+    },
+    {
+        "vehicleType": "Excavator",
+        "vehicleNumber": "HR38AG0457",
+        "tankCapacity": 67
+    },
+    {
+        "vehicleType": "Forklift",
+        "vehicleNumber": "TN65XW8080",
+        "tankCapacity": 284
+    },
+    {
+        "vehicleType": "Tanker",
+        "vehicleNumber": "MH05NN8169",
+        "tankCapacity": 483
+    },
+    {
+        "vehicleType": "Tanker",
+        "vehicleNumber": "WB66HP9157",
+        "tankCapacity": 201
+    },
+    {
+        "vehicleType": "Forklift",
+        "vehicleNumber": "TN54TL7791",
+        "tankCapacity": 193
+    },
+    {
+        "vehicleType": "Truck",
+        "vehicleNumber": "WB43WP4750",
+        "tankCapacity": 307
+    },
+    {
+        "vehicleType": "Forklift",
+        "vehicleNumber": "WB43WP4750",
+        "tankCapacity": 368
+    }
+]

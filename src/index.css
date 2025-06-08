@@ -1,0 +1,168 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 204 100% 88%; /* Sky blue */
+    --foreground: 0 0% 0%;   /* Black */
+
+    --card: 0 0% 100%;         /* White */
+    --card-foreground: 0 0% 0%; /* Black */
+
+    --primary: 222 47% 20%; /* Navy blue */
+    --primary-foreground: 0 0% 0%; /* Black */
+
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 0 0% 0%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 222 100% 60%;
+    --accent-foreground: 0 0% 0%; /* Black */
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 222 47% 20%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+
+    --radius: 0.75rem;
+  }
+
+  * {
+    border: none;
+    box-sizing: border-box;
+  }
+
+  body {
+    background-color: hsl(var(--background)) !important;
+    color: #000;
+    font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+    min-height: 100vh;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+    font-weight: 700;
+    color: #000;
+  }
+}
+
+/* Card: no border, only shadow and radius */
+.card {
+  background: #fff;
+  border-radius: 1rem;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+  padding: 2rem;
+  max-width: 28rem;
+  width: 100%;
+  margin: 0 auto;
+  color: #000;
+}
+
+/* Generic navy blue button */
+.btn-primary {
+  background: #192133 !important;
+  color: #fff !important;
+  font-weight: bold;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  transition: background 0.2s;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.btn-primary:hover {
+  background: #22305b !important;
+}
+
+/* Centered dashboard buttons (navy blue, white text) */
+.centered-buttons > button {
+  background: #192133 !important;
+  color: #fff !important;
+  font-weight: bold;
+  border-radius: 1rem;
+  font-size: 2rem;
+  border: none;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  margin: 0 1rem;
+  padding: 0 4rem;
+  height: 7rem;
+  transition: background 0.2s;
+}
+.centered-buttons > button:hover {
+  background: #22305b !important;
+}
+
+/* Alert (destructive) button */
+.btn-alert {
+  background: #b91c1c !important;
+  color: #fff !important;
+  font-weight: bold;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.btn-alert:hover {
+  background: #991b1b !important;
+}
+
+/* Filter button (for sub-asset counts) navy blue with white text when selected, navy blue with white text by default */
+.btn-filter {
+  background: #192133 !important;
+  color: #fff !important;
+  border: 1px solid #22305b;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+  margin: 0 0.25rem 0.5rem 0.25rem;
+  font-size: 1rem;
+  transition: background 0.2s;
+}
+.btn-filter.selected, .btn-filter:active {
+  background: #22305b !important;
+  color: #fff !important;
+}
+
+/* Input: only input has border */
+.input {
+  border: 1px solid #22305b;
+  border-radius: 0.5rem;
+  padding: 0.75rem 1rem;
+  width: 100%;
+  color: #192133;
+  background: #fff;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  box-sizing: border-box;
+}
+.input:focus {
+  outline: 2px solid #3b82f6;
+}
+
+/* Label */
+.label {
+  display: block;
+  color: #000;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.centered-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+/* Force all page backgrounds to sky blue, even for inline styles */
+html, body, #root, .app, .main-bg, .page-bg {
+  background-color: hsl(204, 100%, 88%) !important;
+}
